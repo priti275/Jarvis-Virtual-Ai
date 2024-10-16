@@ -1,1 +1,1 @@
-# Portfolio-New
+A voice-activated AI assistant built with JavaScript to help automate tasks, provide information, and interact with users seamlessly. Jarvis AI leverages web technologies for speech recognition, natural language processing, and dynamic task execution, offering an intuitive and interactive user experience.
